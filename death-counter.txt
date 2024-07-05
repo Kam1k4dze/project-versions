@@ -1,2 +1,4 @@
 https://www.nexusmods.com/eldenring/mods/2989
-3.6
+3.7
+critical
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel velit egestas, ultricies tellus aliquam, auctor nibh. Ut massa nisi, semper et mi sit amet, laoreet feugiat ligula.
